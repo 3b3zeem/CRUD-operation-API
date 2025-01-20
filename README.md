@@ -39,7 +39,7 @@ Before running the project, make sure you have **Node.js** and **npm** installed
 
 3. **Navigate to the project directory**:
     ```bash
-    cd your-repository-name
+    cd CRUD-operation-API
     ```
 4. **Install dependencies**:
     ```bash
