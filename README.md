@@ -29,24 +29,24 @@ Before running the project, make sure you have **Node.js** and **npm** installed
 
 - Download Node.js from the official website: https://nodejs.org
 - Verify installation with the following commands:
-  ```bash
-  node -v
-  npm -v
+    ```bash
+    node -v
+    npm -v
 
 2. **Clone the repository**:
-   ```bash
-   git clone https://github.com/3b3zeem/CRUD-operation-API
+    ```bash
+    git clone https://github.com/3b3zeem/CRUD-operation-API
 
 3. **Navigate to the project directory**:
-  ```bash
-  cd your-repository-name
-  ```
+    ```bash
+    cd your-repository-name
+    ```
 4. **Install dependencies**:
-  ```bash
-  npm install
-  ```
+    ```bash
+    npm install
+    ```
 5. **Run the project**:
-  ```bash
-  nodemon ./script.js
-  nodemon ./Express.js
-  ```
+    ```bash
+    nodemon ./script.js
+    nodemon ./Express.js
+    ```
