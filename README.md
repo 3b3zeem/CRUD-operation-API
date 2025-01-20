@@ -48,5 +48,5 @@ Before running the project, make sure you have **Node.js** and **npm** installed
 5. **Run the project**:
     ```bash
     nodemon ./script.js
-```
-   nodemon ./Express.js
+  ```
+    nodemon ./Express.js
